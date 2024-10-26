@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156749753436",
+    "project_id": "fdelivery-app",
+    "storage_bucket": "fdelivery-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156749753436:android:2cf0a8384e91c379bfca99",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMx8fvwV-hDdKSqyBTtk6TWoGh67K5eQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
